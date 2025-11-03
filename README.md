@@ -1,6 +1,3 @@
-# SCT\_WD\_1
-
-# 🌍:SkillCraft Internship Task
 
 ## 📝 Overview
 
@@ -59,7 +56,7 @@ JavaScript
 ## 🚀 How to Access
 
 
-🔗 [Click here to visit Portfolio](https://fejoejs.github.io/SCT_WD_1)
+🔗 [Click here to visit Portfolio](https://fejoejs.github.io/Portfolio-Website/)
 
 
 
